@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600">
+    <line x1="20" y1="20" x2="200" y2="20" stroke="red" stroke-width="4"/>
+    <line x1="20" y1="50" x2="200" y2="50" stroke="blue" stroke-width="2"/>
+    
+    <circle cx="100" cy="150" r="40" fill="yellow" stroke="black" stroke-width="3"/>
+    <circle cx="220" cy="150" r="25" fill="lightgreen" stroke="none"/>
+    
+    <rect x="20" y="220" width="150" height="80" fill="lightblue" stroke="navy" stroke-width="2"/>
+    <rect x="200" y="220" width="60" height="60" fill="orange" stroke="black" stroke-width="1"/>
+    
+    <ellipse cx="100" cy="380" rx="80" ry="40" fill="pink" stroke="red" stroke-width="3"/>
+    <ellipse cx="250" cy="380" rx="30" ry="60" fill="cyan" stroke="blue" stroke-width="2"/>
+    
+    <polyline points="400,50 450,100 500,50 550,100" fill="none" stroke="black" stroke-width="3"/>
+    <polyline points="400,150 450,200 500,150 450,100" fill="yellow" stroke="orange" stroke-width="2"/>
+    
+    <text x="400" y="280" font-family="Arial" font-size="24" fill="navy">Primer Texto Prueba</text>
+    <text x="400" y="320" font-family="Times" font-size="16" fill="red">Segundo texto prueba</text>
+</svg>
