@@ -1,5 +1,9 @@
 # Práctica de laboratorio: Visualizador SVG con DOM y Java 2D
 
+## Captura de pantalla
+
+![Interfaz del visualizador SVG](./Screenshot_20261029_145155.png)
+
 ## Arquitectura
 
 Separamos la lectura del archivo (`ProcesadorSVG`) del dibujo en pantalla (`PanelSVG`). Usamos una clase base `FiguraSVG` para que cada figura sepa dibujarse a sí misma de forma independiente (polimorfismo).
